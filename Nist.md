@@ -44,7 +44,12 @@ The Framework Core provides a set of desired cybersecurity activities and outcom
 The Framework Implementation Tiers assist organizations by providing context on how an organization views cybersecurity risk management. The Tiers guide organizations to consider the appropriate level of rigor for their cybersecurity program and are often used as a communication tool to discuss risk appetite, mission priority, and budget.
 ## FRAMEWORK PROFILE:
 Framework Profiles are an organization’s unique alignment of their organizational requirements and objectives, risk appetite, and resources against the desired outcomes of the Framework Core.  Profiles are primarily used to identify and prioritize opportunities for improving cybersecurity at an organization.
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmanagedmethods.com%2Fblog%2Fnist-cybersecurity-framework-k12-school-districts%2F&psig=AOvVaw3kD7mlX9cFlNqBtA0eus74&ust=1675684472679000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjimqCp_vwCFQAAAAAdAAAAABAE)
-
+# STEPS TO IMPLEMENT A FRAMEWORK:
+- Establishing a set of goals
+- Profile creation 
+- Assessing your current position
+- Conduct a gap analysis
+- Create a plan of action
+- Implementation
 
 
